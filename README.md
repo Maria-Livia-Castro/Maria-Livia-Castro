@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Lívia<br>💻 Aspiring developer passionate about Java, Spring Boot, and web technologies  <br>🚀 Exploring the world of programming through hands-on projects and continuous learning  <br>📚 Currently studying to become a full stack developer  <br>🌍 Based in Fortaleza, Brazil 🇧🇷</p>
+<p align="left">👋Oi! Eu sou Lívia<br>
+💻 Desenvolvedora aspirante, apaixonada por Java, Spring Boot, tecnologias web e IA <br>
+🚀 Explorando o mundo da programação por meio de projetos práticos e aprendizado contínuo  <br>
+📚 Atualmente estudando para me tornar desenvolvedora full stack  <br>
+🌍 Fortaleza-CE, Brasil </p>
 
 ###
 
